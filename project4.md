@@ -65,7 +65,7 @@ Add a file to it named server.js
 
 copy and paste the web server code below into the server.js file.
 
-![server js](/project-4/images_project4/server_js.PNG)
+![server js](./images_project4/server_js.PNG)
 
 ### INSTALL EXPRESS AND SET UP ROUTES TO THE SERVER
 
@@ -83,7 +83,7 @@ Create a file named routes.js
  
 Copy and paste the code below into routes.js
 
-![routes js](/project-4/images_project4/routes_js.PNG)
+![routes js](./images_project4/routes_js.PNG)
 
 In the ‘apps’ folder, create a folder named models
 
@@ -95,7 +95,7 @@ Create a file named book.js
 
 Copy and paste the code below into ‘book.js’
 
-![books js](/project-4/images_project4/books_js.PNG)
+![books js](./images_project4/books_js.PNG)
 
 ### Access the routes with AngularJS
 
@@ -113,7 +113,7 @@ Add a file named script.js
   
 Copy and paste the Code below (controller configuration defined) into the script.js file.
 
-![script js](/project-4/images_project4/scripts_js.PNG)
+![script js](./images_project4/scripts_js.PNG)
 
 In the public folder, create a file named index.html;
 
@@ -121,7 +121,7 @@ In the public folder, create a file named index.html;
   
 Copy and paste the code below into index.html file.
 
-![index html](/project-4/images_project4/index_html.PNG)
+![index html](./images_project4/index_html.PNG)
 
 Change the directory back up to Books
 
@@ -143,4 +143,4 @@ Now you can access our Book Register web application from the Internet with a br
 
 This is how your WebBook Register Application will look in the browser:
 
-![final look](/project-4/images_project4/final_output.PNG)
+![final look](./images_project4/final_output.PNG)
